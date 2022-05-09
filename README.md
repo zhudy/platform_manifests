@@ -5,7 +5,7 @@ refer: Build Android Image: https://github.com/anbox/anbox/blob/master/docs/buil
 
 $ mkdir $HOME/anbox-work
 $ cd $HOME/anbox-work
-//GFW workaround: https://mirrors.tuna.tsinghua.edu.cn/help/git-repo/
+//GFW workaround: https://mirrors.tuna.tsinghua.edu.cn/help/git-repo/  and https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/
 $ curl https://mirrors.tuna.tsinghua.edu.cn/git/git-repo -o repo
 $ chmod +x repo
 $ sudo mv repo /usr/local/bin/
